@@ -1,5 +1,5 @@
 {
-    "type": "esp32-fota-http",
+    "type": "QRPyament",
     "version": "1.0.2",
-    "url": "https://makerzcoding.com/fota/esp32-fota-http-1-0-2.bin"
+    "url": "https://makerzcoding.com/Project_QRUpdate/QRPyament-1-0-2.bin"
 }
